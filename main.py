@@ -1,4 +1,4 @@
-from mcp import FastMCP
+from mcp.server.fastmcp import FastMCP
 
 app = FastMCP('my_todos')
 
